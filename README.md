@@ -6,8 +6,7 @@ Cisco Certified CyberOps Associate (CBROPS 200-201) certification.
 ## Why CyberOps?
 
 My professional background sits in the ICS/OT security space, where
-the day-to-day focus is on industrial control systems, physical
-security operations, and endpoint hardening. What I don't get much
+the day-to-day focus is on physical security operations. What I don't get much
 of professionally is hands-on network security monitoring — reading
 packet captures, writing Snort rules, correlating SIEM alerts, and
 doing the kind of tier-1 SOC analysis work the CyberOps exam is
